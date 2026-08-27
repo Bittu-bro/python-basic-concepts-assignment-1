@@ -35,7 +35,8 @@ This Python program:
 
 ## How to Run
 
-Run Task 1:
+Run Task 1 & 2:
 
 ```bash
 python3 Assignment-1.py
+python3 Assignment-2.py
